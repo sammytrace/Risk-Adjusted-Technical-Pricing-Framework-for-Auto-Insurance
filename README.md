@@ -72,23 +72,28 @@ Loss Ratio = Expected Loss Cost / Written Premium
 ​
 # 📌 Key Findings
 
-# Segment              	Finding	                          Interpretation
-High Risk Tier	        Loss Ratio ≈ 6.1	                Severely underpriced
-Medium Risk Tier	      LR ≈ 0.51	                        Adequately priced
-Low Risk Tier	          LR ≈ 0.08	                        Significantly overpriced
-Full Coverage Policies	Better performance than liability-only      Region is not a major pricing lever
-                        Indicates liability underpricing
-                        Region	Rural ≈ Suburban ≈ Urban performance	
+# Segment              	      Finding	                          Interpretation
+1. High Risk Tier	            Loss Ratio ≈ 6.1	                Severely underpriced
+  
+2. Medium Risk Tier	          LR ≈ 0.51	                        Adequately priced
+
+3. Low Risk Tier	            LR ≈ 0.08	                        Significantly overpriced
+
+4. Full Coverage Policies	   Better performance than liability-only    Indicates liability underpricing
+
+5. Region                    Rural ≈ Suburban ≈ Urban performance    Region is not a major pricing lever
+                             
+                        		
 
 # 🎯 Pricing Recommendations
 # Action	                          Rationale	                            Expected Effect
 1. +20–45% premium uplift     Align price with expected loss cost         Improves portfolio adequacy
 for High-Risk Tier
 
-3. -8–15% reduction for 	    Avoid adverse selection & 	                Retention improvement
+2. -8–15% reduction for 	    Avoid adverse selection & 	                Retention improvement
 Low-Risk Tier                 improve competitiveness
 
-5. +3–7% uplift for 	        Address under-costing of minimal coverage	  Reduces cross-subsidy distortion
+3. +3–7% uplift for 	        Address under-costing of minimal coverage	  Reduces cross-subsidy distortion
 Liability-Only policies
 
 # Resulting Portfolio Impact:
