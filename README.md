@@ -64,13 +64,12 @@ Severity strongly driven by:
 Model demonstrated excellent monotonic calibration across risk deciles.
 
 # 🧮 Phase 4 — Pure Premium (Expected Loss Cost)
+
 Expected Loss Cost = Frequency × Severity
 
 Then compared to the actual Premium_Amount:
-
 Loss Ratio = Expected Loss Cost / Written Premium
-
-	​
+​
 # 📌 Key Findings
 
 # Segment              	Finding	                          Interpretation
