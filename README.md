@@ -69,6 +69,7 @@ Expected Loss Cost = Frequency × Severity
 
 Then compared to the actual Premium_Amount:
 Loss Ratio = Expected Loss Cost / Written Premium
+
 ​
 # 📌 Key Findings
 
@@ -86,15 +87,16 @@ Loss Ratio = Expected Loss Cost / Written Premium
                         		
 
 # 🎯 Pricing Recommendations
-# Action	                 |         Rationale	                    |        Expected Effect
-1. +20–45% premium uplift  |   Align price with expected loss cost  |       Improves portfolio adequacy
-for High-Risk Tier
+#### Action	                 |         Rationale	                    |        Expected Effect
+1. +20–45% premium uplift for High-Risk Tier  |   Align price with expected loss cost  |       Improves portfolio adequacy
 
-2. -8–15% reduction for 	|    Avoid adverse selection & 	          |      Retention improvement
-Low-Risk Tier                 improve competitiveness
 
-3. +3–7% uplift for 	    |    Address under-costing of minimal coverage	|  Reduces cross-subsidy distortion
-Liability-Only policies
+2. -8–15% reduction for Low-Risk Tier 	|    Avoid adverse selection &  improve competitiveness	          |      Retention improvement
+               
+
+3. +3–7% uplift for Liability-Only policies	    |    Address under-costing of minimal coverage	|  Reduces cross-subsidy distortion
+
 
 # Resulting Portfolio Impact:
+
 Portfolio Loss Ratio improves from ~0.86 → ~0.70 post-adjustment.
